@@ -1,0 +1,9 @@
+body{
+    background-color: blueviolet;
+}
+p{
+    font-size: 45px;
+    color: chocolate;
+    background-color: darksalmon;
+    border: solid 3px red;
+}

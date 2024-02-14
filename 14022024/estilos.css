@@ -1,0 +1,22 @@
+td{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+
+.clase{
+
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 50px;
+    border: solid 2px red;
+}
+
+
+#ide{
+
+    background-color: blueviolet;
+    color: cornflowerblue;
+    margin: 15px;
+    text-align: center;
+    border: solid 2px red;
+}
